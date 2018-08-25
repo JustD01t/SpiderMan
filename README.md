@@ -3,7 +3,7 @@ A PocketMine-MP plugin | SpiderMan
 
 # 사용법
 
-모든 설정은 Config.yml 에서 조정이 가능합니다(심지어 명령어까지도 ㅋㅋㅋㅋ)
+모든 설정은 Config.yml 에서 조정이 가능합니다(심지어 명령어까지도 ㅋㅋㅋㅋ) 
 Config.yml 모습
 
 ...
